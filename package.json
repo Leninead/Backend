@@ -1,0 +1,14 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Servidor basado en Express para consultar archivos de productos",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Lenin Acosta ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
